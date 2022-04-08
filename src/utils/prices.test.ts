@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'll-bsc-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'fafswap--sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

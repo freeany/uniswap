@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from 'll-bsc-sdk'
+import { Currency, ETHER, Token } from 'fafswap--sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

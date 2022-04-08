@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'll-bsc-sdk'
+import { Trade, TradeType } from 'fafswap--sdk'
 import React, { useContext, useMemo } from 'react'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 import { Text } from 'rebass'

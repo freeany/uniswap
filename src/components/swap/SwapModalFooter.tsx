@@ -1,4 +1,4 @@
-import { Trade, TradeType } from 'll-bsc-sdk'
+import { Trade, TradeType } from 'fafswap--sdk'
 import React, { useContext, useMemo, useState } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

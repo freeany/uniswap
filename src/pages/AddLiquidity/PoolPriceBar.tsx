@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from 'll-bsc-sdk'
+import { Currency, Percent, Price } from 'fafswap--sdk'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'

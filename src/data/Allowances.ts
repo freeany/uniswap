@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from 'll-bsc-sdk'
+import { Token, TokenAmount } from 'fafswap--sdk'
 import { useMemo } from 'react'
 
 import { useTokenContract } from '../hooks/useContract'

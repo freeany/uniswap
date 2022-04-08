@@ -1,4 +1,4 @@
-import { Currency, ETHER, JSBI, TokenAmount } from 'll-bsc-sdk'
+import { Currency, ETHER, JSBI, TokenAmount } from 'fafswap--sdk'
 import React, { useCallback, useEffect, useState } from 'react'
 import { Plus } from 'react-feather'
 import { Text } from 'rebass'

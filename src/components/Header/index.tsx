@@ -1,4 +1,4 @@
-import { ChainId } from 'll-bsc-sdk'
+import { ChainId } from 'fafswap--sdk'
 import React from 'react'
 import { isMobile } from 'react-device-detect'
 import { Text } from 'rebass'

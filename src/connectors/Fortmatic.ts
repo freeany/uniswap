@@ -1,4 +1,4 @@
-import { ChainId } from 'll-bsc-sdk'
+import { ChainId } from 'fafswap--sdk'
 import { FortmaticConnector as FortmaticConnectorCore } from '@web3-react/fortmatic-connector'
 
 export const OVERLAY_READY = 'OVERLAY_READY'

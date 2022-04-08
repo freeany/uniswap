@@ -1,4 +1,4 @@
-import { ChainId } from 'll-bsc-sdk'
+import { ChainId } from 'fafswap--sdk'
 import MULTICALL_ABI from './abi.json'
 
 const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {

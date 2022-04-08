@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from 'll-bsc-sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from 'fafswap--sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

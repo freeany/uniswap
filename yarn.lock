@@ -9870,9 +9870,9 @@
     "p-map" "^2.0.0"
     "rxjs" "^6.3.3"
 
-"ll-bsc-sdk@^1.0.1":
+"fafswap--sdk@^1.0.1":
   "integrity" "sha512-xFdeJG4E879PyGr1VfyEXVOW2rNTihv6uSHaceYHl7faX3PRyTLYSv3k5cNnVZ/HgaS5KfvyHbeV6WzXmSGW3A=="
-  "resolved" "https://registry.npmjs.org/ll-bsc-sdk/-/ll-bsc-sdk-1.0.1.tgz"
+  "resolved" "https://registry.npmjs.org/fafswap--sdk/-/fafswap--sdk-1.0.1.tgz"
   "version" "1.0.1"
   dependencies:
     "@uniswap/v2-core" "^1.0.0"

@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from 'll-bsc-sdk'
+import { currencyEquals, Trade } from 'fafswap--sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,

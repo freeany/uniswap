@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from 'll-bsc-sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'fafswap--sdk'
 import { MIN_ETH } from '../constants'
 
 /**

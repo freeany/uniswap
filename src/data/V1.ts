@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from 'll-bsc-sdk'
+} from 'fafswap--sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

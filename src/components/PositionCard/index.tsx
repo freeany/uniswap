@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent } from 'll-bsc-sdk'
+import { JSBI, Pair, Percent } from 'fafswap--sdk'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'

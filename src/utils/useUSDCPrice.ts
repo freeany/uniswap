@@ -1,4 +1,4 @@
-import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'll-bsc-sdk'
+import { ChainId, Currency, currencyEquals, JSBI, Price, WETH } from 'fafswap--sdk'
 import { useMemo } from 'react'
 import { USDC } from '../constants'
 import { PairState, usePairs } from '../data/Reserves'

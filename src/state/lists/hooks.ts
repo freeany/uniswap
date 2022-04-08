@@ -1,4 +1,4 @@
-import { ChainId, Token } from 'll-bsc-sdk'
+import { ChainId, Token } from 'fafswap--sdk'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

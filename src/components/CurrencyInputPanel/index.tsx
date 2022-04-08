@@ -1,4 +1,4 @@
-import { Currency, Pair } from 'll-bsc-sdk'
+import { Currency, Pair } from 'fafswap--sdk'
 import React, { useState, useContext, useCallback } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { darken } from 'polished'

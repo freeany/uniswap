@@ -1,4 +1,4 @@
-import { Currency } from 'll-bsc-sdk'
+import { Currency } from 'fafswap--sdk'
 import React from 'react'
 import styled from 'styled-components'
 import CurrencyLogo from '../CurrencyLogo'
