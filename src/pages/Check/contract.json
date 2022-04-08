@@ -1,0 +1,313 @@
+{
+  "code": 1,
+  "message": "OK",
+  "result": {
+    "0x724e740766b0ecc806ea1d7eec63e563e9407925": {
+      "is_in_dex": "1",
+      "is_open_source": "1",
+      "is_proxy": "0",
+      "buy_tax": "0.1",
+      "can_take_back_ownership": "0",
+      "cannot_sell_all": "0",
+      "creator_address": "0x0ace0596c3c5e0f3c4d6f6180aaa15f4888bdab5",
+      "creator_balance": "0.229408332629929967",
+      "creator_percent": "0.000076",
+      "dex": [
+        {
+          "name": "PancakeV2",
+          "liquidity": "10769822.42438842",
+          "pair": "0xf9Dba99E000a85e4f04A855A8b45aB4cE751096a"
+        },
+        {
+          "name": "PancakeV2",
+          "liquidity": "0.17759966",
+          "pair": "0x533b38f482ab104B266dBd117110f6eBB1cB7EdA"
+        }
+      ],
+      "holder_count": "1603",
+      "holders": [
+        {
+          "address": "0xf9dba99e000a85e4f04a855a8b45ab4ce751096a",
+          "is_locked": 0,
+          "tag": "PancakeSwap V2: TKF 13",
+          "is_contract": 0,
+          "balance": "1127.754551525066680424",
+          "percent": "0.375918"
+        },
+        {
+          "address": "0x6ee935a2eb68bebf722fbd34f20a53cc8f3f7523",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "38.109318063454380943",
+          "percent": "0.012703"
+        },
+        {
+          "address": "0x0000000000000000000000000000000000000001",
+          "is_locked": 1,
+          "tag": "Null Address",
+          "is_contract": 0,
+          "balance": "35.145",
+          "percent": "0.011715"
+        },
+        {
+          "address": "0xede307a8f0ba197d2bd7659e56b64a7ddc666666",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "34.340617835669803006",
+          "percent": "0.011447"
+        },
+        {
+          "address": "0x6beecce2248747ea0fd33299c01de58e194ad0c3",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "27.068374435828004196",
+          "percent": "0.009023"
+        },
+        {
+          "address": "0xb12ff657ccf56f9c47a86741c8f00f9e81dd8a5e",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "23.100066016658302163",
+          "percent": "0.007700"
+        },
+        {
+          "address": "0xd6a5448eb47709bcdc7948166dad3461630ad851",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "19.573230266633796841",
+          "percent": "0.006524"
+        },
+        {
+          "address": "0x64845236f00e39b750e7d8fce5562dd8f681a37f",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "18.8663",
+          "percent": "0.006289"
+        },
+        {
+          "address": "0x195f9b4dcb97a5a531e15aa334bc0e67b63d1325",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "17.904323239714686497",
+          "percent": "0.005968"
+        },
+        {
+          "address": "0xc6d295c3be873ad120bebb486691c548c4ca30d9",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "16.402793161970613385",
+          "percent": "0.005468"
+        }
+      ],
+      "is_anti_whale": "0",
+      "is_blacklisted": "1",
+      "is_honeypot": "0",
+      "is_mintable": "0",
+      "is_whitelisted": "0",
+      "lp_holder_count": "1775",
+      "lp_holders": [
+        {
+          "address": "0x9f5d23be93a00827d64f8e734c4a64a99353e03c",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 1,
+          "balance": "1201.352000833841",
+          "percent": "0.803620"
+        },
+        {
+          "address": "0x5b5e94485c9628793b01a38762921dc37b6829b6",
+          "is_locked": 1,
+          "tag": "",
+          "is_contract": 1,
+          "balance": "243.907489474233108963",
+          "percent": "0.163157",
+          "locked_detail": [
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:14:55+00:00"
+            },
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:27:09+00:00"
+            },
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-01-21T19:00:26+00:00",
+              "opt_time": "2022-01-21T17:35:15+00:00"
+            },
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:36:09+00:00"
+            },
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-02-21T19:13:00+00:00",
+              "opt_time": "2022-01-21T17:49:00+00:00"
+            },
+            {
+              "amount": "14.354735720958582233",
+              "end_time": "2023-01-21T23:53:00+00:00",
+              "opt_time": "2022-02-25T18:01:08+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:27:09+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:29:33+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-02-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:31:33+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:34:09+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:34:12+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-02-22T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:39:36+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:44:27+00:00"
+            },
+            {
+              "amount": "14.198511945022347565",
+              "end_time": "2022-01-21T19:00:46+00:00",
+              "opt_time": "2022-01-21T17:48:54+00:00"
+            },
+            {
+              "amount": "14.142135623730949488",
+              "end_time": "2023-01-21T19:00:00+00:00",
+              "opt_time": "2022-01-21T17:15:19+00:00"
+            },
+            {
+              "amount": "2.183696107122421431",
+              "end_time": "2023-01-01T04:00:00+00:00",
+              "opt_time": "2022-02-06T17:57:35+00:00"
+            },
+            {
+              "amount": "1.947988614299083485",
+              "end_time": "2023-02-12T13:57:36+00:00",
+              "opt_time": "2022-02-12T13:51:05+00:00"
+            },
+            {
+              "amount": "1.806620470163320392",
+              "end_time": "2023-02-10T02:54:03+00:00",
+              "opt_time": "2022-02-10T02:44:33+00:00"
+            },
+            {
+              "amount": "1.724741318742887903",
+              "end_time": "2023-03-02T12:24:00+00:00",
+              "opt_time": "2022-02-08T10:18:11+00:00"
+            },
+            {
+              "amount": "1.676581018080273878",
+              "end_time": "2023-02-13T10:27:54+00:00",
+              "opt_time": "2022-02-13T10:19:45+00:00"
+            }
+          ]
+        },
+        {
+          "address": "0x1249543a9b47f4e0923f3b73959af55ffba0d0a7",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "3.926601661295060002",
+          "percent": "0.002627"
+        },
+        {
+          "address": "0x4e4ff83bab4049fabec32b4c1bca56b9cd27534d",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.466841383571433335",
+          "percent": "0.001650"
+        },
+        {
+          "address": "0x5eb192f98ab3758e4632fbdc822a859d827a7094",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.466841383571433335",
+          "percent": "0.001650"
+        },
+        {
+          "address": "0xc2b75c6f8a10c20dfc4db09e4e0147565a861c3f",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.466841383571433336",
+          "percent": "0.001650"
+        },
+        {
+          "address": "0x3891c3fc512e5e366dddf2d00f25690bb17f8c92",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.465755983506086365",
+          "percent": "0.001649"
+        },
+        {
+          "address": "0x99df12eb11fdc7bd04703ac5ee9384794c4088f3",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.403660158511257047",
+          "percent": "0.001608"
+        },
+        {
+          "address": "0xeafba36f4bfd3230cadca40edc9c1f1f2abfc1aa",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.377678441996562251",
+          "percent": "0.001591"
+        },
+        {
+          "address": "0xd60487e17567e4ee21363351a80a71936bf3c8ea",
+          "is_locked": 0,
+          "tag": "",
+          "is_contract": 0,
+          "balance": "2.33016030548967997",
+          "percent": "0.001559"
+        }
+      ],
+      "lp_total_supply": "1494.924872425504812651",
+      "owner_address": "0x0000000000000000000000000000000000000000",
+      "owner_balance": "0",
+      "owner_change_balance": "0",
+      "owner_percent": "0",
+      "sell_tax": "0.0099999711635926",
+      "slippage_modifiable": "0",
+      "total_supply": "3000",
+      "transfer_pausable": "0",
+      "token_name": "TAKE OFF",
+      "token_symbol": "TKF"
+    }
+  }
+}
